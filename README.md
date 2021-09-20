@@ -1,4 +1,4 @@
-# Kolekecje
+# Kolekcje
 Zadania:
 
 Odczytaj wszystkie wyrazy z pliku (ciagi znakow oddzielone od siebie spacja), oczysc je 

@@ -1,5 +1,6 @@
 # Kolekecje
-Zadania
+Zadania:
+
 Odczytaj wszystkie wyrazy z pliku (ciagi znakow oddzielone od siebie spacja), oczysc je 
 z niepotrzebnych znakow typu: , . : ; ? ! itp., ujednolic wielkosc liter (wszystkie male)
  oraz zapisz je do 
